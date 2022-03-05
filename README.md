@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-📚 Student developer in PKNU</br>
+📚 Student developer in PKNU CE 22</br>
 🌱 Studying Python + Node.js</br>
 💻 Hope to get a job as a "White Hacker"</br>
 

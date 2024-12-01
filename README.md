@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
 <img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
 
 </div>

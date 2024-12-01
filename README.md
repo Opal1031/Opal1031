@@ -46,6 +46,6 @@
 <div align=center>
 
 ![Minseo Kim's github stats](https://github-readme-stats.vercel.app/api?username=Opal1031&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opal1031&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opal1031&langs_count=10&layout=compact&theme=tokyonight)
 
 </div>

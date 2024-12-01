@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!&fontSize=90&desc=%20Opal1031%20coding%20study%20🍀&descSize=20&fontAlignY=40&fontColor=ffffff)
-
 ---
 
 <h3 align="center" class="heading-element" dir="auto">👋 Hi there 👋</h3>
@@ -21,6 +20,7 @@
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
 <br/>
 <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white">
 
 </div>
 
@@ -40,3 +40,6 @@
 <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white">
 
 </div>
+
+---
+![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=90&fontAlignY=65&fontColor=ffffff)

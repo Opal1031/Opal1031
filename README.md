@@ -3,8 +3,7 @@
 
 <h3 align="center" class="heading-element" dir="auto">👋 Hi there 👋</h3>
 
-<h4 align="center" class="heading-element" dir="auto">Student developer in PKNU CE 22<br/><br/>
-Preparing to return to school 🫠<br/><br/>Hope to get a job as a "White Hacker"<br/>But... Can I make it? 🥲</h4>
+<h4 align="center" class="heading-element" dir="auto">Student developer in PKNU CE 22<br/><br/>Hope to get a job as a "White Hacker"<br/>But... Can I make it? 🥲</h4>
 
 ---
 

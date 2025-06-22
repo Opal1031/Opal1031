@@ -43,4 +43,13 @@
 
 ---
 
+<h3 align="center" class="heading-element" dir="auto">📈 GitHub Status 📈</h3>
+
+<div align=center>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hansatcode&langs_count=10&layout=compact&theme=white)](https://github.com/Opal1031)
+![Status](https://github-readme-stats.vercel.app/api?username=Opal1031&count_private=true&show_icons=true&&theme=default)
+
+---
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=&fontSize=90&fontAlignY=65&fontColor=ffffff)

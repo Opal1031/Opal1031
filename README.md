@@ -7,7 +7,6 @@
 - But... Can I make it? 🥲
 
 ---
----
 
 ### 🏫 Education
 
@@ -23,28 +22,6 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Assistant Leader (Mar 2020 ~ Feb 2022)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Mar 2019 ~ Feb 2020)
 
----
----
-
-### 📚 Projects
-
-- [👾 KBO_Bot](https://github.com/Opal1031/KBO_Bot) (Aug 2025 ~ Sep 2025)
-
-- [🏓 Smashing](https://github.com/Opal1031/Smashing) (Mar 2025 ~ Jun 2025)
-
-### 💡 Contest
-
-- [2022 Data Analysis Contest](https://github.com/Opal1031/2022_Data_Analysis) (Dec 2022)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by Pukyong National University
-
-- [2022 Hackathon](https://github.com/Opal1031/2022_Hackathon) (Nov 2022)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by GDSC PKNU X LINC 3.0
-
-- [2021 Hackathon](https://github.com/Opal1031/TeamSwitch) (Jul 2021)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by Daegu Institute for Creativity & Convergence Education
-
-
----
 ---
 
 ## 🛠️ Skill
@@ -80,6 +57,24 @@
 </p>
 
 ---
+
+### 📚 Projects
+
+- [👾 KBO_Bot](https://github.com/Opal1031/KBO_Bot) (Aug 2025 ~ Sep 2025)
+
+- [🏓 Smashing](https://github.com/Opal1031/Smashing) (Mar 2025 ~ Jun 2025)
+
+### 💡 Contest
+
+- [2022 Data Analysis Contest](https://github.com/Opal1031/2022_Data_Analysis) (Dec 2022)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by Pukyong National University
+
+- [2022 Hackathon](https://github.com/Opal1031/2022_Hackathon) (Nov 2022)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by GDSC PKNU X LINC 3.0
+
+- [2021 Hackathon](https://github.com/Opal1031/TeamSwitch) (Jul 2021)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by Daegu Institute for Creativity & Convergence Education
+
 ---
 
 ## 📖 Blog
@@ -92,8 +87,6 @@
 
 [![Velog](https://velog-readme-stats.vercel.app/api?name=opal1031&tag=네트워크&color=dark)](https://velog.io/@opal1031)
 
-
----
 ---
 
 ## ⚔️ Status

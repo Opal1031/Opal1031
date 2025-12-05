@@ -16,7 +16,8 @@
 ### 💻 Clubs & Community
 
 - **Google Developer Groups on Campus (GDGoC)** - Pukyong National University
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Beginner (Sep 2025 ~ )
+<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Core Member (Dec 2025 ~ )
+<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Beginner - FE (Sep 2025 ~ )
 
 - **Team Switch** - GangBuk High School
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Assistant Leader (Mar 2020 ~ Feb 2022)
@@ -44,7 +45,7 @@
 
 <p align = "center">
   <a href = "https://skillicons.dev">
-    <img src = "https://skillicons.dev/icons?i=html,css,js"/>
+    <img src = "https://skillicons.dev/icons?i=html,css,js,react"/>
   </a>
 </p>
 

@@ -80,13 +80,9 @@
 
 ## 📖 Blog
 
-### 백준 시리즈
+### 최근 글 보기
 
-[![Velog](https://velog-readme-stats.vercel.app/api?name=opal1031&tag=백준&color=dark)](https://velog.io/@opal1031)
-
-### 네트워크 시리즈
-
-[![Velog](https://velog-readme-stats.vercel.app/api?name=opal1031&tag=네트워크&color=dark)](https://velog.io/@opal1031)
+[![Velog](https://velog-readme-stats.vercel.app/api?name=opal1031&color=dark)](https://velog.io/@opal1031)
 
 ---
 

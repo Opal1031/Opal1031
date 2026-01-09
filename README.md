@@ -76,6 +76,11 @@
 - [2021 Hackathon](https://github.com/Opal1031/TeamSwitch) (Jul 2021)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by Daegu Institute for Creativity & Convergence Education
 
+### ✏️ Study
+
+- [GDGoC Frontend Beginner](https://github.com/Opal1031/GDGoC_FE_Beginner) (Sep 2025 ~ Dec 2025)
+<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  HTML / CSS / JS / React
+
 ---
 
 ## 📖 Blog

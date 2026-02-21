@@ -3,8 +3,7 @@
 ## Hi there 👋
 
 🖥️ Student developer in PKNU CE 22
-- Hope to get a job as a "White Hacker"
-- But... Can I make it? 🥲
+- Hope to get a job as an Information Security Specialist (White Hacker)
 
 ---
 
@@ -17,7 +16,7 @@
 
 - **Google Developer Groups on Campus (GDGoC)** - Pukyong National University
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Core Member (Dec 2025 ~ )
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Beginner - FE (Sep 2025 ~ )
+<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Beginner - FE (Sep 2025 ~ Feb 2026)
 
 - **Team Switch** - GangBuk High School
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Assistant Leader (Mar 2020 ~ Feb 2022)
@@ -61,6 +60,8 @@
 
 ### 📚 Projects
 
+- [📅 GDGoC Study Board](https://github.com/Opal1031/GDGoC_Beginner_Team1) (Jan 2026 ~ Feb 2026)
+
 - [👾 KBO_Bot](https://github.com/Opal1031/KBO_Bot) (Aug 2025 ~ Sep 2025)
 
 - [🏓 Smashing](https://github.com/Opal1031/Smashing) (Mar 2025 ~ Jun 2025)
@@ -77,6 +78,8 @@
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by Daegu Institute for Creativity & Convergence Education
 
 ### ✏️ Study
+
+- [SocketProgramming_WebSecLab](https://github.com/Opal1031/SocketProgramming_WebSecLab) (Jan 2026 ~ Feb 2026)
 
 - [GDGoC Frontend Beginner](https://github.com/Opal1031/GDGoC_FE_Beginner) (Sep 2025 ~ Dec 2025)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙  HTML / CSS / JS / React

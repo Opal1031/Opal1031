@@ -79,7 +79,9 @@
 
 ### ✏️ Study
 
-- [SocketProgramming_WebSecLab](https://github.com/Opal1031/SocketProgramming_WebSecLab) (Jan 2026 ~ Feb 2026)
+- [GDGoC_Python_Study](https://github.com/Opal1031/GDGoC_Python_Study) (Mar 2026 ~ )
+
+- [SocketProgramming_WebSecLab](https://github.com/Opal1031/SocketProgramming_WebSecLab) (Jan 2026 ~ Mar 2026)
 
 - [GDGoC Frontend Beginner](https://github.com/Opal1031/GDGoC_FE_Beginner) (Sep 2025 ~ Dec 2025)
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙  HTML / CSS / JS / React

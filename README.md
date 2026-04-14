@@ -88,14 +88,6 @@
 
 ---
 
-## 📖 Blog
-
-### 최근 글 보기
-
-[![Velog](https://velog-readme-stats.vercel.app/api?name=opal1031&color=dark)](https://velog.io/@opal1031)
-
----
-
 ## ⚔️ Status
 
 ![Github_Status](https://github-readme-stats.vercel.app/api?username=Opal1031&count_private=true&show_icons=true&&theme=react)

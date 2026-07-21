@@ -14,6 +14,9 @@
 
 ### 💻 Clubs & Community
 
+- **WhiteHat School (WHS)** - KISA
+<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Mentee (Jun 2026 ~ )
+
 - **Google Developer Groups on Campus (GDGoC)** - Pukyong National University
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Core Member (Dec 2025 ~ )
 <br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Beginner - FE (Sep 2025 ~ Feb 2026)

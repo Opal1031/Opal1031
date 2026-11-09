@@ -7,26 +7,6 @@
 
 ---
 
-### 🏫 Education
-
-- **Pukyong National University** (Mar 2022 ~ )
-- **GangBuk High School** (Mar 2019 ~ Feb 2022)
-
-### 💻 Clubs & Community
-
-- **WhiteHat School (WHS)** - KISA
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Mentee (Jun 2026 ~ )
-
-- **Google Developer Groups on Campus (GDGoC)** - Pukyong National University
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Core Member (Dec 2025 ~ )
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Beginner - FE (Sep 2025 ~ Feb 2026)
-
-- **Team Switch** - GangBuk High School
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Assistant Leader (Mar 2020 ~ Feb 2022)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙ Member (Mar 2019 ~ Feb 2020)
-
----
-
 ## 🛠️ Skill
 
 <h3 align = "center" class="heading-element" dir="auto">Environment</h3>
@@ -58,36 +38,6 @@
     <img src = "https://skillicons.dev/icons?i=discord,gmail,notion,md"/>
   </a>
 </p>
-
----
-
-### 📚 Projects
-
-- [📅 GDGoC Study Board](https://github.com/Opal1031/GDGoC_Beginner_Team1) (Jan 2026 ~ Feb 2026)
-
-- [👾 KBO_Bot](https://github.com/Opal1031/KBO_Bot) (Aug 2025 ~ Sep 2025)
-
-- [🏓 Smashing](https://github.com/Opal1031/Smashing) (Mar 2025 ~ Jun 2025)
-
-### 💡 Contest
-
-- [2022 Data Analysis Contest](https://github.com/Opal1031/2022_Data_Analysis) (Dec 2022)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by Pukyong National University
-
-- [2022 Hackathon](https://github.com/Opal1031/2022_Hackathon) (Nov 2022)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by GDSC PKNU X LINC 3.0
-
-- [2021 Hackathon](https://github.com/Opal1031/TeamSwitch) (Jul 2021)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  organized by Daegu Institute for Creativity & Convergence Education
-
-### ✏️ Study
-
-- [GDGoC_Python_Study](https://github.com/Opal1031/GDGoC_Python_Study) (Mar 2026 ~ )
-
-- [SocketProgramming_WebSecLab](https://github.com/Opal1031/SocketProgramming_WebSecLab) (Jan 2026 ~ Mar 2026)
-
-- [GDGoC Frontend Beginner](https://github.com/Opal1031/GDGoC_FE_Beginner) (Sep 2025 ~ Dec 2025)
-<br>&nbsp;&nbsp;&nbsp;&nbsp;∙  HTML / CSS / JS / React
 
 ---
 
